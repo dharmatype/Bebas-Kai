@@ -1,12 +1,11 @@
 # Bebas Kai
 
-## A dispay font
 
+## A dispay font
 Bebas Kai(改) is a free display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
 
 
 ## History
-
 *  Bebas (2005)  
 [Bebas](https://github.com/dharmatype/Bebas) is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*
@@ -14,7 +13,6 @@ Originally released in 2005. *Development was terminated.*
 * Bebas Neue version 1.xxx (2010)  
 Bebas Neue is re-designed from "Bebas" font for the same purpose. First released in 2010.  
 Bebas Neue have same proportion and theory as original "Bebas" font.  
-Bebas Neue is being distributed with SIL Open Font License 1.1   
 
 * Bebas Neue Family (2014)  
 [Font fabric](http://www.fontfabric.com/bebas-neue/) designed additional weights and glyphs.  
@@ -31,17 +29,15 @@ From version 2.000, [Bebas Neue has become open source font.](https://github.com
 
 
 ## License
-
 Bebas Kai is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
 To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Bebas-Kai/blob/master/OFL.txt)
 
-## Authors
 
+## Authors
 [Ryoichi Tsunekawa](http://dharmatype.com)  
 
 
 ## Images
-
 ![/documentation/img/BebasKai_001.png](/documentation/img/BebasKai_001.png)|![/documentation/img/BebasKai_002.png](/documentation/img/BebasKai_002.png)
 ----|----
 ![/documentation/img/BebasKai_003.png](/documentation/img/BebasKai_003.png)|![/documentation/img/BebasKai_004.png](/documentation/img/BebasKai_004.png)
