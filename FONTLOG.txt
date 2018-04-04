@@ -1,0 +1,35 @@
+FONTLOG for Bebas Kai font.
+
+This file provides detailed information on the Bebas Kai font.
+This information should be distributed along with the Bebas Kai font(s) and any
+derivative works.
+
+
+Basic Font Information
+
+Bebas Kai is a free display font for headline, caption, and titling designed by Ryoichi Tsunekawa.
+To contribute to the project, Please contact to Dharma Type at https://github.com/dharmatype/Bebas-Kai/ or visit http://dharmatype.com
+
+
+
+ChangeLog
+
+04 Apr 2018 (Ryoichi Tsunekawa) Bebas Kai v1.002
+- Fix Sidebearings
+- Open-sourced
+
+29 Oct 2014 (Ryoichi Tsunekawa) Bebas Kai v1.000
+- Initial Release.
+
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N),
+email (E), web-address (if you have one) (W) and
+description (D). This list is in alphabetical order.
+
+N: Ryoichi Tsunekawa
+E: info@dharmatype.com
+W: http://dharmatype.com
+D: Original designer
