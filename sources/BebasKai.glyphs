@@ -22165,7 +22165,7 @@ value = BebasKai;
 },
 {
 name = postscriptFullName;
-value = "Bebas Kai Regular";
+value = "Bebas Kai";
 }
 );
 instanceInterpolations = {
