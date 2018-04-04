@@ -18,7 +18,7 @@ Bebas Neue is being distributed with SIL Open Font License 1.1
 
 * Bebas Neue Family (2014)  
 [Font fabric](http://www.fontfabric.com/bebas-neue/) designed additional weights and glyphs.  
-They are distributing the font family under the same name of "Bebas Neue". Please read more information below.  
+They are distributing the font family under the same name of "Bebas Neue".
 
 * Bebas Kai (2014)  
 *This repository.*  
