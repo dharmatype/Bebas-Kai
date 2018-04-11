@@ -19,7 +19,7 @@ Fontfabric designed additional weights and glyphs.
 They are distributing the font family under the same name of "Bebas Neue".
 
 * [Bebas Kai (2014)](https://github.com/dharmatype/Bebas-Kai)    
-*-This repository.*  
+*- This repository.*  
 Bebas Kai is one of derivative works based upon Bebas (2005)  
 From 2018, Bebas Kai has become open sourced font.  
 In this repository, you can download the font files(.otf and .ttf) and its source file(.glyphs)
