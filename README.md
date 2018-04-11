@@ -6,26 +6,26 @@ Bebas Kai(改) is a free display font for headline, caption, and titling designe
 
 
 ## History
-*  Bebas (2005)  
-[Bebas](https://github.com/dharmatype/Bebas) is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
+*  [Bebas (2005)](https://github.com/dharmatype/Bebas)  
+Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*
 
-* Bebas Neue version 1.xxx (2010)  
-Bebas Neue is re-designed from "Bebas" font for the same purpose. First released in 2010.  
-Bebas Neue have same proportion and theory as original "Bebas" font.  
+* [Bebas Neue version 1.xxx (2010)](https://github.com/dharmatype/Bebas-Neue)  
+Bebas Neue is re-designed from Bebas (2005) font for the same purpose. First released in 2010.  
+Bebas Neue have same proportion and theory as original Bebas (2005) font.  
 
-* Bebas Neue Family (2014)  
-[Font fabric](http://www.fontfabric.com/bebas-neue/) designed additional weights and glyphs.  
+* [Bebas Neue Family (2014)](http://www.fontfabric.com/bebas-neue/)  
+Fontfabric designed additional weights and glyphs.  
 They are distributing the font family under the same name of "Bebas Neue".
 
-* Bebas Kai (2014)  
-*This repository.*  
-Bebas Kai is one of derivative works based upon Bebas(2005)  
+* [Bebas Kai (2014)](https://github.com/dharmatype/Bebas-Kai)    
+*-This repository.*  
+Bebas Kai is one of derivative works based upon Bebas (2005)  
 From 2018, Bebas Kai has become open sourced font.  
 In this repository, you can download the font files(.otf and .ttf) and its source file(.glyphs)
 
-* Bebas Neue version 2.000 (2018)  
-From version 2.000, [Bebas Neue has become open source font.](https://github.com/dharmatype/Bebas-Neue)   
+* [Bebas Neue version 2.000 (2018)](https://github.com/dharmatype/Bebas-Neue)  
+From version 2.000, Bebas Neue has become open source font.   
 
 
 ## License
@@ -44,6 +44,7 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 
 
 ## Support
-Please support our free font project.
-Our free fonts are free even for commercial use. You can use them without any purchases.
-But we welcome your support for free font project. Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
+Please support our free font project.  
+Our free fonts are free even for commercial use. You can use them without any purchases.  
+But we welcome your support for free font project.   
+Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
