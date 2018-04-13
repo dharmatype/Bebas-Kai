@@ -22,7 +22,7 @@ They are distributing the font family under the same name of "Bebas Neue".
 *- This repository.*  
 Bebas Kai is one of derivative works based upon Bebas (2005)  
 From 2018, Bebas Kai has become open sourced font.  
-In this repository, you can download the font files(.otf and .ttf) and its source file(.glyphs)
+In this repository, you can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs)
 
 * [Bebas Neue version 2.000 (2018)](https://github.com/dharmatype/Bebas-Neue)  
 From version 2.000, Bebas Neue has become open source font.   
