@@ -65,6 +65,6 @@ Please visit [http://dharmatype.com/support](https://dharmatype.com/support)
 
 
 ## Images
-![/assets/img/BebasKai_001.png](/assets/img/BebasKai_001.png)|![/documentation/img/BebasKai_002.png](/documentation/img/BebasKai_002.png)
+![/documentation/img/BebasKai_001.png](/assets/img/BebasKai_001.png)|![/documentation/img/BebasKai_002.png](/documentation/img/BebasKai_002.png)
 ----|----
 ![/documentation/img/BebasKai_003.png](/documentation/img/BebasKai_003.png)|![/documentation/img/BebasKai_004.png](/documentation/img/BebasKai_004.png)
