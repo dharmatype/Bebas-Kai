@@ -14,7 +14,7 @@ Free font.
 
 *  [Boycott (2006)](https://www.myfonts.com/fonts/flat-it/boycott/?refby=dharmatype)   
 Boycott is distressed font designed based on Bebas(2005).  
-Commercial font which is available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/boycott/?refby=dharmatype).
+Commercial font which is available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/boycott/?refby=dharmatype).  
 
 * [Bebas Neue version 1.xxx (2010)](https://github.com/dharmatype/Bebas-Neue)  
 Bebas Neue was re-designed from Bebas (2005) font for the same purpose. First released in 2010.  
