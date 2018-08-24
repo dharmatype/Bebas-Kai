@@ -65,4 +65,4 @@ Please visit [http://dharmatype.com/support](https://dharmatype.com/support)
 
 
 ## Images
-![/assets/img/BebasKai_010.png](/assets/img/BebasKai_010.png)|
+![/assets/img/BebasKai_010.png](/assets/img/BebasKai_010.png)
