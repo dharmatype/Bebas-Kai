@@ -42,11 +42,11 @@ Free font which is licensed under the SIL Open Font License v1.1.
 
 * [Bebas Neue SemiRounded (2018)](https://www.myfonts.com/fonts/flat-it/bebas-neue-semi-rounded/?refby=dharmatype)    
 Bebas Neue SemiRounded  is semi-rounded derivative work based on Bebas Neue (2018)  
-Commercial font which is available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-semi-rounded/?refby=dharmatype).
+Commercial font which is available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-semi-rounded/?refby=dharmatype) and [Patreon](https://www.patreon.com/dharmatype).
 
 * [Bebas Neue Rounded (2018)](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/?refby=dharmatype)    
 Bebas Neue Rounded  is rounded derivative work based on Bebas Neue (2018)  
-Commercial font which is available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/?refby=dharmatype).
+Commercial font which is available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](https://www.myfonts.com/fonts/flat-it/bebas-neue-rounded/?refby=dharmatype) and [Patreon](https://www.patreon.com/dharmatype).
 
 ## License
 Bebas Kai is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
