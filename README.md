@@ -1,7 +1,7 @@
 # Bebas Kai(改)
 
 
-## A dispay font
+## A display font
 Bebas Kai(改) is a free display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](https://dharmatype.com).   
 http://bebaskai.com
 
