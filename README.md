@@ -68,7 +68,15 @@ But we welcome your support for free font project.
 Please visit [http://dharmatype.com/support](https://dharmatype.com/support)  
 
 
-## Images
+## Images of Bebas Kai
 ![/documentation/img/BebasKai_001.png](/documentation/img/BebasKai_001.png)|![/documentation/img/BebasKai_002.png](/documentation/img/BebasKai_002.png)
 ----|----
 ![/documentation/img/BebasKai_003.png](/documentation/img/BebasKai_003.png)|![/documentation/img/BebasKai_004.png](/documentation/img/BebasKai_004.png)
+
+## Images of Bebas Neue Pro
+![/documentation/img/BebasNeuePro-001.png](/documentation/img/BebasNeuePro-001.png)|![/documentation/img/BebasNeuePro-002.png](/documentation/img/BebasNeuePro-002.png)|![/documentation/img/BebasNeuePro-008.png](/documentation/img/BebasNeuePro-008.png)
+----|---- |----
+![/documentation/img/BebasNeuePro-005.png](/documentation/img/BebasNeuePro-005.png)|![/documentation/img/BebasNeuePro-006.png](/documentation/img/BebasNeuePro-006.png)|![/documentation/img/BebasNeuePro-003.png](/documentation/img/BebasNeuePro-003.png)
+![/documentation/img/BebasNeuePro-007.png](/documentation/img/BebasNeuePro-007.png)|![/documentation/img/BebasNeuePro-009.png](/documentation/img/BebasNeuePro-009.png)|![/documentation/img/BebasNeuePro-004.png](/documentation/img/BebasNeuePro-004.png)
+![/documentation/img/BebasNeuePro-010.png](/documentation/img/BebasNeuePro-010.png)|![/documentation/img/BebasNeuePro-011.png](/documentation/img/BebasNeuePro-011.png)|![/documentation/img/BebasNeuePro-012.png](/documentation/img/BebasNeuePro-012.png)
+![/documentation/img/BebasNeuePro-013.png](/documentation/img/BebasNeuePro-013.png)||
