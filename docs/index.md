@@ -48,7 +48,7 @@ Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](h
 
 * [Bebas (2005) — Free font](https://www.dafont.com/bebas.font)  
 Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
-Originally released in 2005. *Development was terminated.*  
+Originally released in 2005. ~~*Development was terminated.*~~ version1.1(2019)
 
 ## License
 Bebas Kai is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
